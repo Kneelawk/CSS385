@@ -2,6 +2,10 @@
 
 **[Project Repo](https://github.com/Kneelawk/CSS385-Program-1)**
 
+## Demonstration Video
+
+![Demonstration Video](https://github.com/Kneelawk/CSS385/raw/refs/heads/program-1/Program-1.mp4)
+
 ## Resources Used
 
 * [Godot Docs](https://docs.godotengine.org/en/stable/index.html)
