@@ -8,5 +8,9 @@ This interaction model is the core mechanic of the game. This means that the pri
 
 ## Video Demonstration
 
-[Video Demonstration 1](https://raw.githubusercontent.com/Kneelawk/CSS385/refs/heads/program-2/ballphys-program2-1.mp4)
-[Video Demonstration 2](https://raw.githubusercontent.com/Kneelawk/CSS385/refs/heads/program-2/ballphys-program2-2.mp4)
+* [Video Demonstration 1](https://raw.githubusercontent.com/Kneelawk/CSS385/refs/heads/program-2/ballphys-program2-1.mp4)
+* [Video Demonstration 2](https://raw.githubusercontent.com/Kneelawk/CSS385/refs/heads/program-2/ballphys-program2-2.mp4)
+
+## Program Link
+
+[Download Program 2 from here](https://github.com/Kneelawk/physball/releases/tag/program-2)
