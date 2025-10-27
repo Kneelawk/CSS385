@@ -8,9 +8,13 @@ In physball, I have chosen to use a raw JSON file for storing game preferences o
 
 I recorded a single video and then encoded it as an H264 `.mp4` file and an AV1 `.webm` file. The AV1 file has better quality but not all devices can play AV1 videos yet.
 
-[H264 Encoded Video Demonstration]
-[AV1 Encoded Video Demonstration]
+[H264 Encoded Video Demonstration](https://raw.githubusercontent.com/Kneelawk/CSS385/refs/heads/program-3/physball-program3-1-2.mp4)
+[AV1 Encoded Video Demonstration](https://raw.githubusercontent.com/Kneelawk/CSS385/refs/heads/program-3/physball-program3-1.webm)
 
 ## Notes
 
 There currently seems to be a bug in the Bevy game engine that causes the window to not resize immediately when the component is updated. Instead I need to restart the app with the new specified resolution for the window to open at the new size. Hopefully this bug will be fixed soon.
+
+## Release
+
+The program release binaries for Mac, Windows, and Linux can be found at [Physball's program-3 release](https://github.com/Kneelawk/physball/releases/tag/program-3).
